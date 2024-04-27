@@ -1,0 +1,37 @@
+{
+  "navbardata": [
+    {
+      "link": "News",
+      "icons": "<FaDiscord />"
+    },
+    {
+      "link": "Strategies",
+      "icons": "<RiTwitterXLine />"
+    },
+    {
+      "link": "Lineups",
+      "icons": "<GiRobotLeg />"
+    }
+  ],
+  "cardsdata": [
+    {
+      "img": "./images/card1.png"
+    },
+    {
+      "img": "./images/card2.png",
+      "id": "center-img"
+    },
+    {
+      "img": "./images/card3.png"
+    }
+  ],
+  "blogdata": [
+    {
+      "blog": "./images/blogthree.jpg"
+    },
+    {
+      "blog": "./images/blogtwoo.jpg",
+      "id": "second"
+    }
+  ]
+}
